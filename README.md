@@ -14,17 +14,17 @@ String Similarity/Distance: Recursive and iterative implementations of Levenshte
 
 ## TO DO 
 
-Other Distance measures
-Sentence splitting
-Stemming 
-Word frequency analysis
-Co-occurance analysis
-part of speech tagging
-trigram statistics
-named entity recognition
-word sense disambiguation
-Library for clustering
-Bayesian classifier
+* Other Distance measures
+* Sentence splitting
+* Stemming 
+* Word frequency analysis
+* Co-occurance analysis
+* part of speech tagging
+* trigram statistics
+* named entity recognition
+* word sense disambiguation
+* Library for clustering
+* Bayesian classifier
 
 
 
