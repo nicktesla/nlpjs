@@ -1,7 +1,7 @@
 {
     "name": "nlpjs",
     "description": "NLP library for javascript",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "nicktesla",
     "repository": {
         "type": "git",
