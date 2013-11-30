@@ -1,0 +1,18 @@
+{
+    "name": "nlpjs",
+    "description": "NLP library for javascript",
+    "version": "0.1",
+    "author": "nicktesla",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/nicktesla/nlpjs.git"
+    },
+    "main": "./lib/nlpjs",
+    "dependencies": {
+ 
+    },
+    "devDependencies" : {
+
+    },
+    "keywords": ["nlp", "levenshtein", "machine learning", "natural language processing", "nltk"]
+}
